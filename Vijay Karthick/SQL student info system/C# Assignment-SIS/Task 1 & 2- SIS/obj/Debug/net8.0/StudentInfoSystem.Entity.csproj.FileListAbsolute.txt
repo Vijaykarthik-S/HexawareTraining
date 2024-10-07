@@ -1,0 +1,4 @@
+C:\Users\Ganesh Karthik\Desktop\Hexaware Training\C# and .NET\Assignments\StudentInfoSystem.entity\obj\Debug\net8.0\StudentInfoSystem.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ganesh Karthik\Desktop\Hexaware Training\C# and .NET\Assignments\StudentInfoSystem.entity\obj\Debug\net8.0\StudentInfoSystem.Entity.AssemblyInfoInputs.cache
+C:\Users\Ganesh Karthik\Desktop\Hexaware Training\C# and .NET\Assignments\StudentInfoSystem.entity\obj\Debug\net8.0\StudentInfoSystem.Entity.AssemblyInfo.cs
+C:\Users\Ganesh Karthik\Desktop\Hexaware Training\C# and .NET\Assignments\StudentInfoSystem.entity\obj\Debug\net8.0\StudentInfoSystem.Entity.csproj.CoreCompileInputs.cache
