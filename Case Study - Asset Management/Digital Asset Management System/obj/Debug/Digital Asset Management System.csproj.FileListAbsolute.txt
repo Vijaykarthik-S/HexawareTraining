@@ -1,0 +1,7 @@
+C:\Users\Ganesh Karthik\source\repos\Digital Asset Management System\bin\Debug\Digital Asset Management System.exe.config
+C:\Users\Ganesh Karthik\source\repos\Digital Asset Management System\bin\Debug\Digital Asset Management System.exe
+C:\Users\Ganesh Karthik\source\repos\Digital Asset Management System\bin\Debug\Digital Asset Management System.pdb
+C:\Users\Ganesh Karthik\source\repos\Digital Asset Management System\obj\Debug\Digital Asset Management System.csproj.AssemblyReference.cache
+C:\Users\Ganesh Karthik\source\repos\Digital Asset Management System\obj\Debug\Digital Asset Management System.csproj.CoreCompileInputs.cache
+C:\Users\Ganesh Karthik\source\repos\Digital Asset Management System\obj\Debug\Digital Asset Management System.exe
+C:\Users\Ganesh Karthik\source\repos\Digital Asset Management System\obj\Debug\Digital Asset Management System.pdb
