@@ -1,0 +1,6 @@
+C:\Users\Ganesh Karthik\Desktop\Hexaware Training\Submission folder\Case Study - Asset Management\Digital Asset Management System.Exceptions\bin\Debug\Digital Asset Management System.Exceptions.dll
+C:\Users\Ganesh Karthik\Desktop\Hexaware Training\Submission folder\Case Study - Asset Management\Digital Asset Management System.Exceptions\bin\Debug\Digital Asset Management System.Exceptions.pdb
+C:\Users\Ganesh Karthik\Desktop\Hexaware Training\Submission folder\Case Study - Asset Management\Digital Asset Management System.Exceptions\obj\Debug\DigitalAssetManagementSystem.Exceptions.csproj.AssemblyReference.cache
+C:\Users\Ganesh Karthik\Desktop\Hexaware Training\Submission folder\Case Study - Asset Management\Digital Asset Management System.Exceptions\obj\Debug\DigitalAssetManagementSystem.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Ganesh Karthik\Desktop\Hexaware Training\Submission folder\Case Study - Asset Management\Digital Asset Management System.Exceptions\obj\Debug\Digital Asset Management System.Exceptions.dll
+C:\Users\Ganesh Karthik\Desktop\Hexaware Training\Submission folder\Case Study - Asset Management\Digital Asset Management System.Exceptions\obj\Debug\Digital Asset Management System.Exceptions.pdb
