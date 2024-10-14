@@ -1,0 +1,13 @@
+C:\Users\Ganesh Karthik\Desktop\Hexaware Training\Submission folder\Case Study - Asset Management\Digital Asset Management System.BusinessLayer\bin\Debug\Digital Asset Management System.BusinessLayer.dll
+C:\Users\Ganesh Karthik\Desktop\Hexaware Training\Submission folder\Case Study - Asset Management\Digital Asset Management System.BusinessLayer\bin\Debug\Digital Asset Management System.BusinessLayer.pdb
+C:\Users\Ganesh Karthik\Desktop\Hexaware Training\Submission folder\Case Study - Asset Management\Digital Asset Management System.BusinessLayer\bin\Debug\Digital Asset Management System.Entity.dll
+C:\Users\Ganesh Karthik\Desktop\Hexaware Training\Submission folder\Case Study - Asset Management\Digital Asset Management System.BusinessLayer\bin\Debug\Digital Asset Management System.Exceptions.dll
+C:\Users\Ganesh Karthik\Desktop\Hexaware Training\Submission folder\Case Study - Asset Management\Digital Asset Management System.BusinessLayer\bin\Debug\Digital Asset Management System.Util.dll
+C:\Users\Ganesh Karthik\Desktop\Hexaware Training\Submission folder\Case Study - Asset Management\Digital Asset Management System.BusinessLayer\bin\Debug\Digital Asset Management System.Entity.pdb
+C:\Users\Ganesh Karthik\Desktop\Hexaware Training\Submission folder\Case Study - Asset Management\Digital Asset Management System.BusinessLayer\bin\Debug\Digital Asset Management System.Exceptions.pdb
+C:\Users\Ganesh Karthik\Desktop\Hexaware Training\Submission folder\Case Study - Asset Management\Digital Asset Management System.BusinessLayer\bin\Debug\Digital Asset Management System.Util.pdb
+C:\Users\Ganesh Karthik\Desktop\Hexaware Training\Submission folder\Case Study - Asset Management\Digital Asset Management System.BusinessLayer\obj\Debug\DigitalAssetManagementSystem.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Ganesh Karthik\Desktop\Hexaware Training\Submission folder\Case Study - Asset Management\Digital Asset Management System.BusinessLayer\obj\Debug\DigitalAssetManagementSystem.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ganesh Karthik\Desktop\Hexaware Training\Submission folder\Case Study - Asset Management\Digital Asset Management System.BusinessLayer\obj\Debug\DigitalA.FDCB6D7F.Up2Date
+C:\Users\Ganesh Karthik\Desktop\Hexaware Training\Submission folder\Case Study - Asset Management\Digital Asset Management System.BusinessLayer\obj\Debug\Digital Asset Management System.BusinessLayer.dll
+C:\Users\Ganesh Karthik\Desktop\Hexaware Training\Submission folder\Case Study - Asset Management\Digital Asset Management System.BusinessLayer\obj\Debug\Digital Asset Management System.BusinessLayer.pdb
