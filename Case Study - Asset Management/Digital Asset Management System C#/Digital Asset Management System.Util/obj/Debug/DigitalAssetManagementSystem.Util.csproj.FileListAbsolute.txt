@@ -1,0 +1,6 @@
+C:\Users\Ganesh Karthik\Desktop\Hexaware Training\Submission folder\Case Study - Asset Management\Digital Asset Management System.Util\bin\Debug\Digital Asset Management System.Util.dll
+C:\Users\Ganesh Karthik\Desktop\Hexaware Training\Submission folder\Case Study - Asset Management\Digital Asset Management System.Util\bin\Debug\Digital Asset Management System.Util.pdb
+C:\Users\Ganesh Karthik\Desktop\Hexaware Training\Submission folder\Case Study - Asset Management\Digital Asset Management System.Util\obj\Debug\DigitalAssetManagementSystem.Util.csproj.AssemblyReference.cache
+C:\Users\Ganesh Karthik\Desktop\Hexaware Training\Submission folder\Case Study - Asset Management\Digital Asset Management System.Util\obj\Debug\DigitalAssetManagementSystem.Util.csproj.CoreCompileInputs.cache
+C:\Users\Ganesh Karthik\Desktop\Hexaware Training\Submission folder\Case Study - Asset Management\Digital Asset Management System.Util\obj\Debug\Digital Asset Management System.Util.dll
+C:\Users\Ganesh Karthik\Desktop\Hexaware Training\Submission folder\Case Study - Asset Management\Digital Asset Management System.Util\obj\Debug\Digital Asset Management System.Util.pdb
