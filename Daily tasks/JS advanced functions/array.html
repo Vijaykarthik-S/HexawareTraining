@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+    </head>
+    <body>
+        <ul id = "userlist">
+            <script>
+                const arr1 = [
+                 {id:1, name :"Thorfinn" },
+                 {id:2, name :"Askeladd" },
+                 {id:3, name :"Canute" }
+                ];
+                const userElement = document.getElementById("userlist");
+                arr1.map((user) =>{
+                    const listItem = document.createElement("li");
+                    listItem.textContent = `ID:${user.id}, Name : ${user.name}`;
+                    userElement.appendChild(listItem);
+                });
+
+
+
+            </script>
+        </ul>
+    </body>
+</html>
